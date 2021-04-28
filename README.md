@@ -17,3 +17,4 @@ Please fork the the repository and then issue Pull Request
 #### Rebasing example
 
 Adding a line
+Adding more text from myfeature branch
