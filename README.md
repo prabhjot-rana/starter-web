@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 #### Notes
 
 Please fork the the repository and then issue Pull Request
+
+#### Rebasing example
+
+Adding a line
