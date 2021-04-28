@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ### Copyright
 
 2021 Git.Training 
+
+#### Notes
+
+Please fork the the repository and then issue Pull Request
