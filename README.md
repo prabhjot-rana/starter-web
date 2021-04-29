@@ -18,3 +18,5 @@ Please fork the the repository and then issue Pull Request
 
 Adding a line
 Adding more text from myfeature branch
+
+Stash Commmit
